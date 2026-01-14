@@ -1,5 +1,12 @@
 # Concept Vocabulary: Judgment Externalization
 
+This repository documents experimental execution during research.
+It does not represent a production system, live authority, or active enforcement.
+
+---
+
+
+
 **Repository Type**: Definitional (Open for Refinement)
 
 ---
